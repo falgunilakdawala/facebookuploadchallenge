@@ -154,7 +154,7 @@
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container-fluid">
 					<div class="navbar-header" align="center">
-						<span class="center-block" style="font-size:36px;" href="<?php echo $helper->getLoginUrl( $perm );?>">
+						<span class="center-block" style="font-size:36px;padding-left:40%;" href="<?php echo $helper->getLoginUrl( $perm );?>">
 							Facebook Album
 						</span>
 					</div>
