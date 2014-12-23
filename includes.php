@@ -21,8 +21,8 @@
 	$fb_secret_id = '19b2bbf4c1eb5af473fef5188ea28c93'; // Goto your Fb app->settings
 
 	//fb_login_url is same url which is added in facebook app->settings.
-	$fb_login_url = 'https://shrouded-wildwood-5079.herokuapp.com/index.php'; 
-	$fb_logout_url = 'https://shrouded-wildwood-5079.herokuapp.com/logout.php';
+	$fb_login_url = 'https://fbuploadchallenge.herokuapp.com/index.php'; 
+	$fb_logout_url = 'https://fbuploadchallenge.herokuapp.com/logout.php';
 
 	session_start();
 
