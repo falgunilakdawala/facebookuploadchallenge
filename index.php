@@ -100,7 +100,7 @@
 								<span class="icon-bar"></span>
 							</button>
 							<a class="navbar-brand" href="#" id="username">
-								<img src="<?php echo 'https://graph.facebook.com/'.$user_id.'/picture';?>" id="user_photo" class="img-circle" />
+								<img src="<?php echo 'https://graph.facebook.com/'.$user_id.'/picture';?>" id="user_photo" class="img-thumbnail" />
 								<span style="margin-left: 5px;"> <?php echo $user_name;?></span>
 							</a>
 						</div>
